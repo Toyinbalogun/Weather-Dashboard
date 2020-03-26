@@ -6,7 +6,7 @@ Building a weather dashboard that will run in the browser and feature dynamicall
 Use the OpenWeather API to retrieve weather data for cities. Using localStorage to store any persistent data.
 
 # Link to Webpage
-
+https://toyinbalogun.github.io/Weather-Dashboard/
 
 
 
