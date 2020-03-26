@@ -1,0 +1,27 @@
+h1 {
+    color: #ffffff;
+}
+
+.days {
+    float: left;
+    /* margin-left: auto; */
+    margin-right: auto;
+    background-color:  #2965d4;
+    color: #ffffff;
+}
+
+#page-title{
+    padding: 1rem;
+    background-color: #2965d4;
+    margin-bottom: 0rem;
+}
+
+#search-city{
+    background-color: #fafafa;
+    margin-top: 0rem;
+    margin-left: 0rem;
+}
+
+#main-body{
+    padding: 0rem;
+}
